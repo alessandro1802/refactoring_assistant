@@ -1,0 +1,5 @@
+jupyter
+torch
+transformers
+flake8
+mypy
