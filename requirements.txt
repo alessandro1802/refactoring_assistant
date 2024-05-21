@@ -3,3 +3,5 @@ torch
 transformers
 flake8
 mypy
+python-dotenv
+openai

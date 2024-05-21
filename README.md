@@ -7,3 +7,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Generating examples
+Open the `.env` file and replace `YOUR_KEY` with tour OpenAI API key.
